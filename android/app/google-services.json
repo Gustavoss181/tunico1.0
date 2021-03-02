@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870108298093",
+    "project_id": "tunico-e1134",
+    "storage_bucket": "tunico-e1134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870108298093:android:d8c0ddfb60784c9337f864",
+        "android_client_info": {
+          "package_name": "Tunico.tunico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870108298093-v8dljqb04clfkd9b5osicv50jrl4j408.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Tunico.tunico",
+            "certificate_hash": "60ef5fa7a30e57f22249dbbc628eab41a9cea16a"
+          }
+        },
+        {
+          "client_id": "870108298093-lebafve0lrmi1ipmhpibfdkdde1f262k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHWjwm_fsyY6HvtKgM4ruEm5HthRQuWk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870108298093-lebafve0lrmi1ipmhpibfdkdde1f262k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
