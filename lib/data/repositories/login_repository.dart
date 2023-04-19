@@ -1,5 +1,5 @@
-import 'package:tunico/data/models/login_model.dart';
-import 'package:tunico/data/providers/fire_base_auth_provider.dart';
+import 'package:bicjr_app/data/models/login_model.dart';
+import 'package:bicjr_app/data/providers/fire_base_auth_provider.dart';
 
 class LoginRepository{
 
